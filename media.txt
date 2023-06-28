@@ -1,0 +1,19 @@
+--> mobile screen <--
+@media (max-width: 767px){
+
+}
+
+--> small screen <--
+@media (min-width: 768px){
+
+}
+--> medium screen <--
+@media (min-width: 992px){
+    
+}
+--> large screen <--
+@media (min-width: 1200px){
+
+}
+
+
